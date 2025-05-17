@@ -39,10 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katepereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=katepereira&icon=0&color=0" alt="Visitor Count"/>
-</p>
 
 <!-- Designed with 💜 using GPRM (https://gprm.itsvg.in) -->
