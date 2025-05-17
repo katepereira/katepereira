@@ -12,7 +12,8 @@
 <p align="left">
   <!-- Add social links here when available -->
 </p>
-- 📫 Reach me at: **Kateajpereira@gmail.com**
+- 📫 Reach me at: **kateajpereira@gmail.com**
+**dsarihan@gmail.com**
 
 
 
